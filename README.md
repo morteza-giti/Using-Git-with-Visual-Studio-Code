@@ -3,7 +3,6 @@
 
 Scrolling used to be really basic—up and down, and occasionally side to side. Now scrolling has taken a larger place in navigation, and CSS lets you connect animations to scrolling, resulting in new interaction opportunities. This course shows how web developers and app developers can leverage scrolling and parallax to program new interface styles. 
 
-This is an added paragraph
 
 ## Instructions
 
